@@ -1,0 +1,9 @@
+{
+  "name": "just-a-space",
+  "version": "1.0.0",
+  "description": "Just a space",
+  "main": "index.js",
+  "author": "bamblehorse",
+  "repository": "bamblehorse/just-a-space",
+  "license": "MIT"
+}
