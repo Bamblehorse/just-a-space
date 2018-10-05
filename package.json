@@ -6,6 +6,9 @@
   "author": "bamblehorse",
   "repository": "bamblehorse/just-a-space",
   "license": "MIT",
+  "scripts": {
+    "test": "jest test.js"
+  },
   "devDependencies": {
     "jest": "^23.6.0"
   }
