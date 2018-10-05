@@ -5,5 +5,8 @@
   "main": "index.js",
   "author": "bamblehorse",
   "repository": "bamblehorse/just-a-space",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
 }
